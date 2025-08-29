@@ -1,4 +1,4 @@
-# Email 
+# Email Generator
 
 ## Project Overview
 The **Email Generator** project automates the creation of email IDs for students in a precise and organized manner. The project has evolved from being a college-specific solution to a nationwide system capable of generating emails based on structured data.
