@@ -44,6 +44,7 @@ The project has now been scaled to work for **the entire country**. To achieve t
 - **Python** for dynamic email generation
 - **Pandas** for Excel data handling
 - **Excel** as the structured data input
+- **Streamlit** for Visualizing the site
 
 ## **Future Scope**
 - The generated email IDs can be **stored in a database**, allowing:
